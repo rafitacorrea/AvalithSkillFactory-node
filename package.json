@@ -12,13 +12,15 @@
   },
   "keywords": [
     "node",
-    "skill",
-    "factory"
+    "skill-factory"
   ],
   "author": "rafitacorrea",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/rafitacorrea/AvalithSkillFactory-node/issues"
   },
-  "homepage": "https://github.com/rafitacorrea/AvalithSkillFactory-node#readme"
+  "homepage": "https://github.com/rafitacorrea/AvalithSkillFactory-node#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
