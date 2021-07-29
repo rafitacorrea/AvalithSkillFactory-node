@@ -1,0 +1,24 @@
+{
+  "name": "avalith-skill-node",
+  "version": "1.0.0",
+  "description": "Challenge de NodeJS de la Skill Factory de Avalith.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rafitacorrea/AvalithSkillFactory-node.git"
+  },
+  "keywords": [
+    "node",
+    "skill",
+    "factory"
+  ],
+  "author": "rafitacorrea",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rafitacorrea/AvalithSkillFactory-node/issues"
+  },
+  "homepage": "https://github.com/rafitacorrea/AvalithSkillFactory-node#readme"
+}
